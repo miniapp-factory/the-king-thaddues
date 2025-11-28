@@ -1,0 +1,46 @@
+
+# 2025-11-28 05:24:49.696043
++Code the following app
++```
++Create a 3D game that the character must be on a third person point of view (POV), Holding a sword and also it should have a 2 actions which is the first one is when there's no enemies the characters action should be calm and then if there's an enemy the characters action should be more like he's locked in to the enemy until they are dead. It should also have a controller which is arrows up, down, left and right on the left side of the game then also add a button for attack where the character will attack when the user click the button attack, also the attack button design would be a sword with a circle on it. If the user is using PC then it can use the "space" for activating the attack button by pressing the "space" on their keyboard.
++
++Mobile and PC control for screen:
++⦁	The user can adjust the screen by moving it to the right, left, up and down by pressing or clicking the middle screen using the mouse 2 button of your mouse if the user is using PC and if the user is using a mobile phone then they can use to tap and slide on the middle of the screen to move up, down, right and left to change the POV of the character. The screen movement should also be able to do a 360 degree angle so that the player or user can rotate it and view the other sides.
++
++Details of the character, enemy and terrain:
++⦁	The terrain of the place should be a small grass with a few common trees then the sky should be a cloudy and deem.
++⦁	The character's dress would be a silver knight armor with a silver sword, the skin color of the character is light brown then the hair is black and with a masculine body.
++⦁	The character's enemy would be a crawling monster and their looks is their skin color is brown with a red glowing eyes then also with a sharp claws.
++⦁	The enemy of the character can attack anytime but it has 4 seconds delay after they attack and after the 4 seconds delay they can attack again.
++⦁	Every enemies HP contains 5 hits only of the character and they will die immediately and they respawn again after 30 seconds.
++⦁	The character's HP is 100 while the damage of the enemies attack is only 1. If the enemy attacks the character with a single hit then the character's HP will decrease base on the enemies damage attack.
++
++Screen introduction:
++⦁	Starting the game should have a intro screen where the user will see a screen that has a buttons named "Start the Game" then if the game begins then the monster will appear in 5 seconds.
++The background of this is a horror theme with a few trees on it and the ground would have grassy style then also should have 2 stone on the left or right then I need you to add a wind effect of the trees. 
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-28 05:24:49.697098
++Code the following app
++```
++Create a 3D game that the character must be on a third person point of view (POV), Holding a sword and also it should have a 2 actions which is the first one is when there's no enemies the characters action should be calm and then if there's an enemy the characters action should be more like he's locked in to the enemy until they are dead. It should also have a controller which is arrows up, down, left and right on the left side of the game then also add a button for attack where the character will attack when the user click the button attack, also the attack button design would be a sword with a circle on it. If the user is using PC then it can use the "space" for activating the attack button by pressing the "space" on their keyboard.
++
++Mobile and PC control for screen:
++⦁	The user can adjust the screen by moving it to the right, left, up and down by pressing or clicking the middle screen using the mouse 2 button of your mouse if the user is using PC and if the user is using a mobile phone then they can use to tap and slide on the middle of the screen to move up, down, right and left to change the POV of the character. The screen movement should also be able to do a 360 degree angle so that the player or user can rotate it and view the other sides.
++
++Details of the character, enemy and terrain:
++⦁	The terrain of the place should be a small grass with a few common trees then the sky should be a cloudy and deem.
++⦁	The character's dress would be a silver knight armor with a silver sword, the skin color of the character is light brown then the hair is black and with a masculine body.
++⦁	The character's enemy would be a crawling monster and their looks is their skin color is brown with a red glowing eyes then also with a sharp claws.
++⦁	The enemy of the character can attack anytime but it has 4 seconds delay after they attack and after the 4 seconds delay they can attack again.
++⦁	Every enemies HP contains 5 hits only of the character and they will die immediately and they respawn again after 30 seconds.
++⦁	The character's HP is 100 while the damage of the enemies attack is only 1. If the enemy attacks the character with a single hit then the character's HP will decrease base on the enemies damage attack.
++
++Screen introduction:
++⦁	Starting the game should have a intro screen where the user will see a screen that has a buttons named "Start the Game" then if the game begins then the monster will appear in 5 seconds.
++The background of this is a horror theme with a few trees on it and the ground would have grassy style then also should have 2 stone on the left or right then I need you to add a wind effect of the trees. 
++```
++
++Generate an app logo and update the app metadata title and description.
